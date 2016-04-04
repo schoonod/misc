@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://web.archive.org/web/20150905194312/https://packagecontrol.io/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Colorsublime",
+		"Handlebars",
+		"JSX",
+		"Package Control",
+		"Riot Tag",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-cpplint",
+		"SublimeLinter-jsxhint",
+		"SublimeLinter-php",
+		"SublimeLinter-pylint",
+		"Terminal"
+	]
+}
